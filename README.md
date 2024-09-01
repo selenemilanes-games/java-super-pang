@@ -50,6 +50,7 @@ _Incluye:_
   - [Hervé Barbaresi](https://www.hervebarbaresi.com/pang-adventures)
   - [The Spriters Resource](https://www.spriters-resource.com/snes/superbusterbros/sheet/34370/)
 - Edición de algunos assets: Selene Milanés
+- Desarrollo: Selene Milanés
 
 ---------------------
 > Este proyecto es una recreación educativa del clásico videojuego Super Pang, desarrollado como parte de mi aprendizaje en el desarrollo de videojuegos con Java. Quiero aclarar que este trabajo es estrictamente no comercial y ha sido creado con fines educativos para mejorar mis habilidades en programación y diseño de juegos.
@@ -64,5 +65,5 @@ _Incluye:_
 <br>
 
 ### <img src="resources/Crocodile.gif" alt="Cocodrilo Super Pang" width="45" height="45"> No dudes en contactarme para cualquier duda o inquietud 
-<a href="https://www.linkedin.com/in/selene-milanes-rodriguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/selene-milanes-rodriguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/Selene Milanés Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:selene.milanes@hotmail.com"> <img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
