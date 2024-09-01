@@ -31,7 +31,7 @@ _Incluye:_
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse)](https://www.eclipse.org/downloads/)
 
-## Créditos
+## 💻 Créditos
 - Motor videojuego: Marc Albareda
 - Assets:
   - [Hervé Barbaresi](https://www.hervebarbaresi.com/pang-adventures)
