@@ -41,11 +41,12 @@ _Incluye:_
 
 ## 💻 Créditos
 - Idea y creador del juego original: Mitchell Corporation
+- Soundtrack: [Mitchell Coporation](https://downloads.khinsider.com/game-soundtracks/album/super-pang-mitchell-arcade)
 - Motor utilizado para la creación del videojuego: Marc Albareda
 - Assets/Artwork:
   - [Hervé Barbaresi](https://www.hervebarbaresi.com/pang-adventures)
   - [The Spriters Resource](https://www.spriters-resource.com/snes/superbusterbros/sheet/34370/)
-- Edición assets: Selene Milanés (yo misma)
+- Edición de algunos assets: Selene Milanés
 
 ---------------------
 > Este proyecto es una recreación educativa del clásico videojuego Super Pang, desarrollado como parte de mi aprendizaje en el desarrollo de videojuegos con Java. Quiero aclarar que este trabajo es estrictamente no comercial y ha sido creado con fines educativos para mejorar mis habilidades en programación y diseño de juegos.
