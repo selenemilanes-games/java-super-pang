@@ -16,7 +16,6 @@ _Incluye:_
 
 > Disparar: [Espacio]. <br>
 
-> Guardar partida: [U].
  
 ### <img src="resources/RedPang.gif" alt="Cocodrilo Super Pang" width="45" height="60"> Player 2 
 > Movimiento:
@@ -25,7 +24,12 @@ _Incluye:_
 
 > Disparar: [8]. <br>
 
+#### Controles comunes
 > Guardar partida: [U].
+
+> Pausar juego: [P].
+
+> Reanudar juego: [R].
 
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
