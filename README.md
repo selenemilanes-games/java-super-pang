@@ -1,6 +1,8 @@
 # 🫧 Super Pang 🫧
 Réplica del mítico juego [Super Pang](https://es.wikipedia.org/wiki/Super_Pang) donde el objetivo es disparar a todas las bolas que aparecen en pantalla pero... ¡Cuidado! Al explotar una bola, ¡ésta se dividirá en dos! Evita que te toquen para no morir.
 
+Además, habrá una gaviota que te ayudará a destuir las bolas.
+
 ## Descripción
 Videojuego realizado durante el primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi). 
 
