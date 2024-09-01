@@ -34,7 +34,7 @@ _Incluye:_
 > Reanudar juego: [R].
 
 ## Requisitos
-- [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse)](https://www.eclipse.org/downloads/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse)](https://www.eclipse.org/downloads/)
   
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
