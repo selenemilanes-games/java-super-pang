@@ -1,4 +1,4 @@
-# 🫧 Mini Pang (imitación del juego original) 🫧
+# 🫧 Mini Pang (imitación Super Pang) 🫧
 Imitación del mítico juego [Super Pang](https://es.wikipedia.org/wiki/Super_Pang) donde el objetivo es disparar a todas las bolas que aparecen en pantalla pero... ¡Cuidado! Al explotar una bola, ¡ésta se dividirá en dos! Evita que te toquen tres veces para no morir.
 
 Además, habrá una gaviota que te ayudará a destuir las bolas y de las bolas podrán salir vidas.
