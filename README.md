@@ -39,7 +39,7 @@ _Incluye:_
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
-## Gameplay
+## Gameplay (‼️ haz clic en la imagen para ver el vídeo ‼️)
 [![Watch the video](https://img.youtube.com/vi/SymE9g9CN2o/maxresdefault.jpg)](https://youtu.be/SymE9g9CN2o)
 
 ## 💻 Créditos
