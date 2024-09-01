@@ -14,14 +14,18 @@ _Incluye:_
 >> Izquierda: [A]. <br> </b> Derecha: [D].
 <br>
 
-> Disparar: [Espacio].
+> Disparar: [Espacio]. <br>
+
+> Guardar partida: [U].
  
 ### Player 2
 > Movimiento:
 >> Izquierda: [4]. <br> </b> Derecha: [6].
 <br>
 
-> Disparar: [8].
+> Disparar: [8]. <br>
+
+> Guardar partida: [U].
 
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
