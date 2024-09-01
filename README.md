@@ -40,9 +40,7 @@ _Incluye:_
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 ## Gameplay
-<a href="VídeoDemostrativoMiniPang.mp4">
-    <img src="ImagendemostrativaSuperPang.png" alt="Imagen demostrativa Mini Pang" height="400" width="800" />
-</a>
+[![Watch the video](https://img.youtube.com/vi/SymE9g9CN2o/maxresdefault.jpg)](https://youtu.be/SymE9g9CN2o)
 
 ## 💻 Créditos
 - Idea y creador del juego original: Mitchell Corporation
