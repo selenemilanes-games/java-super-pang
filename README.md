@@ -39,6 +39,11 @@ _Incluye:_
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
+## Gameplay
+<a href="VídeoDemostrativoMiniPang.mp4">
+    <img src="ImagendemostrativaSuperPang.png" alt="Imagen demostrativa Mini Pang" height="400" width="800" />
+</a>
+
 ## 💻 Créditos
 - Idea y creador del juego original: Mitchell Corporation
 - Soundtrack: [Mitchell Coporation](https://downloads.khinsider.com/game-soundtracks/album/super-pang-mitchell-arcade)
