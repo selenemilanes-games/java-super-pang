@@ -38,4 +38,4 @@ _Incluye:_
 
 ### No dudes en contactarme para cualquier duda o inquietud
 <a href="https://www.linkedin.com/in/selene-milanes-rodriguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="selene.milanes@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
+<a href="mailto:selene.milanes@hotmail.com"> <img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
