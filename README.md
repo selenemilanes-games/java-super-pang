@@ -44,14 +44,14 @@ Destruir todas las bolas que hay en pantalla sin morir.
 [![Watch the video](https://img.youtube.com/vi/SymE9g9CN2o/maxresdefault.jpg)](https://youtu.be/SymE9g9CN2o)
 
 ## ©️ Créditos
-- Idea y creador del juego original: Mitchell Corporation
-- Soundtrack: [Mitchell Coporation](https://downloads.khinsider.com/game-soundtracks/album/super-pang-mitchell-arcade)
-- Motor utilizado para la creación del videojuego: Marc Albareda
+- Desarrollo: Selene Milanés.
+- Edición de algunos assets: Selene Milanés.
+- Idea y creador del juego original: Mitchell Corporation.
+- Soundtrack: [Mitchell Coporation](https://downloads.khinsider.com/game-soundtracks/album/super-pang-mitchell-arcade).
+- Motor utilizado para la creación del videojuego: Marc Albareda.
 - Assets/Artwork:
-  - [Hervé Barbaresi](https://www.hervebarbaresi.com/pang-adventures)
-  - [The Spriters Resource](https://www.spriters-resource.com/snes/superbusterbros/sheet/34370/)
-- Edición de algunos assets: Selene Milanés
-- Desarrollo: Selene Milanés
+  - [Hervé Barbaresi](https://www.hervebarbaresi.com/pang-adventures).
+  - [The Spriters Resource](https://www.spriters-resource.com/snes/superbusterbros/sheet/34370/).
 
 ---------------------
 > Este proyecto es una recreación educativa del clásico videojuego Super Pang, desarrollado como parte de mi aprendizaje en el desarrollo de videojuegos con Java. Quiero aclarar que este trabajo es estrictamente no comercial y ha sido creado con fines educativos para mejorar mis habilidades en programación y diseño de juegos.
