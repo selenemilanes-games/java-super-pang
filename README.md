@@ -3,14 +3,17 @@ Imitación del mítico juego [Super Pang](https://es.wikipedia.org/wiki/Super_Pa
 
 Además, habrá una gaviota que te ayudará a destuir las bolas y de las bolas podrán salir vidas.
 
-## Descripción
+## 📄 Descripción
 Videojuego realizado durante el primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi). 
 
-_Incluye:_
+🎯 _Objetivo:_
+Destruir todas las bolas que hay en pantalla sin morir.
+
+➕ _Incluye:_
 - Modo 1 jugador o 2 jugadores.
 - Guardado de partida.
 
-## Controles 
+## 🎮 Controles 
 ### <img src="resources/BluePang.gif" alt="Cocodrilo Super Pang" width="50" height="60"> Player 1 
 > Movimiento:
 >> Izquierda: [A]. <br> </b> Derecha: [D].
@@ -32,17 +35,15 @@ _Incluye:_
 > Pausar juego: [P].
 
 > Reanudar juego: [R].
-
-## Requisitos
-[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse)](https://www.eclipse.org/downloads/)
   
-## Tecnologías
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+## 💻 Tecnologías
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## Gameplay (‼️ haz clic en la imagen para ver el vídeo ‼️)
+## 📽️ Gameplay (clic en la imagen para ver el vídeo)
 [![Watch the video](https://img.youtube.com/vi/SymE9g9CN2o/maxresdefault.jpg)](https://youtu.be/SymE9g9CN2o)
 
-## 💻 Créditos
+## ©️ Créditos
 - Idea y creador del juego original: Mitchell Corporation
 - Soundtrack: [Mitchell Coporation](https://downloads.khinsider.com/game-soundtracks/album/super-pang-mitchell-arcade)
 - Motor utilizado para la creación del videojuego: Marc Albareda
